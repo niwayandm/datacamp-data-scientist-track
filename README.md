@@ -2,7 +2,7 @@
 This is a compilation of projects from Datacamp Data Scientist Career Track.
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an issue to discuss what you would like to change.
 
 ## About Datacamp Data Scientist Career Track
 Gain the career-building Python skills you need to succeed as a data scientist. No prior coding experience required.
