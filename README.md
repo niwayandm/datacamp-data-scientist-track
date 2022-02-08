@@ -9,7 +9,7 @@ Gain the career-building Python skills you need to succeed as a data scientist. 
 
 In this track, you'll learn how this versatile language allows you to import, clean, manipulate, and visualize data—all integral skills for any aspiring data professional or researcher. Through interactive exercises, you'll get hands-on with some of the most popular Python libraries, including pandas, NumPy, Matplotlib, and many more. You'll then work with real-world datasets to learn the statistical and machine learning techniques you need to train decision trees and use natural language processing (NLP). Start this track, grow your Python skills, and begin your journey to becoming a confident data scientist.
 
-## Courses and Projects
+## Contents
 1. [Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)
 2. [Intermediate Python](https://app.datacamp.com/learn/courses/intermediate-python)
 3. [Project: Investigating Netflix Movies and Guest Stars in The Office](https://app.datacamp.com/learn/projects/entertainment-data)
