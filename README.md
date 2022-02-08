@@ -30,7 +30,7 @@ In this track, you'll learn how this versatile language allows you to import, cl
 17. [Cleaning Data in Python](https://app.datacamp.com/learn/courses/cleaning-data-in-python)
 18. [Working with Dates and Times in Python](https://app.datacamp.com/learn/courses/working-with-dates-and-times-in-python)
 19. [Skill Assesment: Importing & Cleaning Data with Python](https://assessment.datacamp.com/importing-cleaning-data-with-python?track_title=Data%20Scientist%20%20with%20Python&track_url=https://www.datacamp.com/tracks/data-scientist-with-python/continue&next_content_type=course&next_content_title=Writing%20Functions%20in%20Python&next_content_technology=python)
-20. [Writing Functions in Pythonn](https://app.datacamp.com/learn/courses/writing-functions-in-python)
+20. [Writing Functions in Python](https://app.datacamp.com/learn/courses/writing-functions-in-python)
 21. [Skill Assessment: Python Programming](https://assessment.datacamp.com/python-programming?track_title=Data%20Scientist%20%20with%20Python&track_url=https://www.datacamp.com/tracks/data-scientist-with-python/continue&next_content_type=course&next_content_title=Exploratory%20Data%20Analysis%20in%20Python&next_content_technology=python)
 22. [Exploratory Data Analysis in Python](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python)
 23. [Analyzing Police Activity with pandas](https://app.datacamp.com/learn/courses/analyzing-police-activity-with-pandas)
