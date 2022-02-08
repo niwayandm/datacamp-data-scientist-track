@@ -33,7 +33,7 @@ In this track, you'll learn how this versatile language allows you to import, cl
 20. [Writing Functions in Python](https://app.datacamp.com/learn/courses/writing-functions-in-python)
 21. [Skill Assessment: Python Programming](https://assessment.datacamp.com/python-programming?track_title=Data%20Scientist%20%20with%20Python&track_url=https://www.datacamp.com/tracks/data-scientist-with-python/continue&next_content_type=course&next_content_title=Exploratory%20Data%20Analysis%20in%20Python&next_content_technology=python)
 22. [Exploratory Data Analysis in Python](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python)
-23. [Analyzing Police Activity with pandas](https://app.datacamp.com/learn/courses/analyzing-police-activity-with-pandas)
+23. [Project: Analyzing Police Activity with pandas](https://app.datacamp.com/learn/courses/analyzing-police-activity-with-pandas)
 24. [Statistical Thinking in Python (Part 1)](https://app.datacamp.com/learn/courses/statistical-thinking-in-python-part-1)
 25. [Statistical Thinking in Python (Part 2)](https://app.datacamp.com/learn/courses/statistical-thinking-in-python-part-2)
 26. [Project: Dr. Semmelweis and the Discovery of Handwashing](https://app.datacamp.com/learn/projects/discovery-of-handwashing)
