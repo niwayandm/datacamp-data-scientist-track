@@ -1,2 +1,2 @@
 # Datacamp-Projects
-This is a compilation of the projects that I have done from Datacamp.
+This is a compilation of projects from Datacamp Data Scientist Career Track.
