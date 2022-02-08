@@ -1,2 +1,2 @@
 # Datacamp-Projects
-Compilation of my Datacamp projects
+This is a compilation of the projects that I have done from Datacamp.
