@@ -45,4 +45,4 @@ In this track, you'll learn how this versatile language allows you to import, cl
 32. [Cluster Analysis in Python](https://app.datacamp.com/learn/courses/cluster-analysis-in-python)
 
 ## Author
-Author : Ni Wayan Devina Maharani - [LinkedIn](https://linkedin.com/in/ni-wayan-devina) - dedev524@gmail.com
+Author : Ni Wayan Devina Maharani - [LinkedIn](https://linkedin.com/in/niwayandm) - dedev524@gmail.com
